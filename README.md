@@ -11,3 +11,5 @@ runtime broker: insert->rickroll (troll?)
 icon extractor: extract icons from any app or website
 
 win get info: get info about a window by clicking on it
+
+ahk msgbox creator: msgbox creator for ahk development
