@@ -1,6 +1,6 @@
 # Random ahk programs
 
-copy logger: writes log in documents every time clipboard i updated
+copy logger: writes log in documents every time clipboard is updated
 
 gyazo plus: gyazo extension with many features
 
