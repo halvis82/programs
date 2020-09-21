@@ -1,5 +1,7 @@
 # Random ahk programs
 
+color picker: github.com/halvis82/color_picker
+
 copy logger: writes log in documents every time clipboard is updated
 
 gyazo plus: gyazo extension with many features
