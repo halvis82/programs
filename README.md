@@ -8,7 +8,7 @@ gyazo plus: gyazo extension with many features
 
 menu launcher: launcher for anything with menu key
 
-runtime broker: insert->rickroll (troll?)
+runtime broker: troll program (rick roll, shrugging, insertkey)
 
 icon extractor: extract icons from any app or website
 
