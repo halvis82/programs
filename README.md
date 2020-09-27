@@ -16,6 +16,8 @@ menu launcher: launcher for anything with menu key
 
 runtime broker: troll program (rick roll, shrugging, insertkey)
 
+Snapper: https://github.com/halvis82/snapper
+
 icon extractor: extract icons from any app or website
 
 win get info: get info about a window by clicking on it
