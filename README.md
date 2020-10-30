@@ -14,6 +14,8 @@ Disable windows key: Disables windows key. Hold down to reenable
 
 menu launcher: launcher for anything with menu key
 
+OverlayFilter: ctrl + printscreen to show filter over specified area
+
 runtime broker: troll program (rick roll, shrugging, insertkey)
 
 Snapper: https://github.com/halvis82/snapper
