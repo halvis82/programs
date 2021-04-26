@@ -16,6 +16,8 @@ menu launcher: launcher for anything with menu key
 
 OverlayFilter: ctrl + printscreen to show filter over specified area
 
+Random wallpaper: applies random wallpaper from directory
+
 runtime broker: troll program (rick roll, shrugging, insertkey)
 
 Snapper: https://github.com/halvis82/snapper
@@ -25,3 +27,5 @@ icon extractor: extract icons from any app or website
 win get info: get info about a window by clicking on it
 
 ahk msgbox creator: msgbox creator for ahk development
+
+newjs: console app to create new website
