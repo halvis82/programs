@@ -1,6 +1,6 @@
 # Random ahk programs
 
-color picker: https://github.com/halvis82/color_picker
+color picker: Get color of mouse position
 
 copy logger: writes log in documents every time clipboard is updated
 
