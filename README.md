@@ -29,3 +29,5 @@ win get info: get info about a window by clicking on it
 ahk msgbox creator: msgbox creator for ahk development
 
 newjs: console app to create new website
+
+google search keybinds: press number key for corresponding google search result
